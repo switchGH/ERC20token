@@ -1,0 +1,26 @@
+{
+  "name": "ERC20token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switchGH/ERC20token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/switchGH/ERC20token/issues"
+  },
+  "homepage": "https://github.com/switchGH/ERC20token#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
